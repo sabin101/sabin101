@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @sabin101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Sabin 👋
 
-<!---
-sabin101/sabin101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a data-focused student interested in analytics, business insights, and building practical data projects.
+
+## 💻 What I'm working on
+
+* Building data analytics projects using Python and SQL
+* Learning how to turn data into useful business insights
+* Improving my skills in data visualization and reporting
+
+## 📊 Projects
+
+### Sales Performance Analytics Project
+
+* Built an end-to-end data pipeline using Python, pandas, and SQLite
+* Cleaned and analyzed sales data (~10K records)
+* Generated insights on regional performance, product trends, and profitability
+* Automated the workflow using Python scripts
+
+👉 [View Project](https://github.com/sabin101/sales_analytics_project)
+
+## 🛠️ Skills
+
+* Python (pandas, matplotlib)
+* SQL
+* Data Cleaning & Analysis
+* Data Visualization
+
+## 📫 Contact
+
+* LinkedIn: www.linkedin.com/in/sabin-khatiwada-9b3643231
+
+
+
+
+
